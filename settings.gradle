@@ -1,0 +1,6 @@
+include ':feed'
+include ':servicehub'
+include ':login-impl'
+include ':login-api'
+include ':app'
+rootProject.name = "Godmars"
